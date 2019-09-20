@@ -12,5 +12,7 @@
         <file>i18n/iTestServer-cs.qm</file>
         <file>i18n/iTestServer-hu.qm</file>
         <file>i18n/iTestServer-de.qm</file>
+        <file>i18n/iTestServer-uz.qm</file>
+       
     </qresource>
 </RCC>
